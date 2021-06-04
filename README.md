@@ -1,8 +1,8 @@
 
-## Charming plots and where to find them (for Python)
+## Charming plots and where to find them (in Python)
 
-Python Notebooks with Artsy Figures:
-* Mirror_Langevin_Discreitzations
-* Newton_Langevin_vs_ULA
+Python Notebooks with Artsy Figures: 
+* Mirror_Langevin_Discreitzations.ipynb
+* Newton_Langevin_vs_ULA.ipynb
 
-(a work in progress :nerd_face:)
+(repo is a work in progress :nerd_face:)
